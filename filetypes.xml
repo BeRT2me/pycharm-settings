@@ -12,6 +12,9 @@
       <mapping ext="prc" type="DBN-PSQL" />
       <mapping ext="trg" type="DBN-PSQL" />
       <mapping ext="vw" type="DBN-SQL" />
+      <mapping pattern="test" type="JSON" />
+      <mapping pattern="javascript" type="JavaScript" />
+      <mapping pattern="test2" type="JavaScript" />
       <mapping ext="ipynb" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
